@@ -5,5 +5,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(),tailwindcss(),],
-  base: '/Bussiness-Portfolio/', // Must match your repo name exactly
+// Must match your repo name exactly
+base:"/Bussiness-Portfolio/"
 })

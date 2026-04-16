@@ -1,6 +1,6 @@
 {
   "name": "vukumba_website",
-  "homepage": "https://vukumba.github.io/Bussiness-Portfolio/",
+ 
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,6 +11,7 @@
     "preview": "vite preview",
     "predeploy":"npm run build",
     "deploy":"gh-pages -d dist"
+    
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
